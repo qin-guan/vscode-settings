@@ -32,7 +32,20 @@
     "richie5um2.vscode-sort-json",
     "unional.vscode-sort-package-json",
     "voorjaar.windicss-intellisense",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+
+    // custom
+    "yzhang.markdown-all-in-one",
+    "vscodevim.vim",
+    "vincaslt.highlight-matching-tag",
+    "formulahendry.auto-rename-tag",
+    "k--kato.intellij-idea-keybindings",
+    "ms-azuretools.vscode-docker",
+    "DavidAnson.vscode-markdownlint",
+    "bradlc.vscode-tailwindcss",
+    "mongodb.mongodb-vscode",
+    "mushan.vscode-paste-image",
+    "redhat.vscode-yaml",
+    "unifiedjs.vscode-mdx",
   ]
 }
