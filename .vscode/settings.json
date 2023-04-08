@@ -11,7 +11,7 @@
 
   // Editor
   "editor.accessibilitySupport": "off",
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.find.addExtraSpaceOnTop": false,
   "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
@@ -21,6 +21,8 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.hover.sticky": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
     "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
@@ -171,8 +173,6 @@
   "iconify.inplace": true,
   "svg.preview.mode": "svg",
   "volar.autoCompleteRefs": false,
-  "volar.codeLens.pugTools": false,
-  "volar.codeLens.scriptSetupTools": true,
   "volar.completion.preferredTagNameCase": "pascal",
   "windicss.enableCodeFolding": false,
   "prettier.enable": false, // I only use Prettier for manually formatting
