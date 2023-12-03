@@ -58,6 +58,7 @@
     "ms-dotnettools.vscodeintellicode-csharp",
     "redhat.vscode-xml",
     "vadimcn.vscode-lldb",
-    "ms-azuretools.rad-vscode-bicep"
+    "ms-azuretools.rad-vscode-bicep",
+    "ms-kubernetes-tools.vscode-kubernetes-tools"
   ]
 }
