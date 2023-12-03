@@ -50,6 +50,13 @@
     "antfu.open-in-github-button",
     "github.vscode-github-actions",
     "johnsoncodehk.vscode-tsconfig-helper",
-    "WakaTime.vscode-wakatime"
+    "WakaTime.vscode-wakatime",
+    "bufbuild.vscode-buf",
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "redhat.vscode-xml",
+    "vadimcn.vscode-lldb"
   ]
 }
