@@ -26,18 +26,18 @@
   },
   {
     "key": "ctrl+alt+l",
-    "command": "eslint.executeAutofix",
+    "command": "eslint.executeAutofix"
   },
   {
     "key": "ctrl+alt+l",
-    "command": "editor.action.fixAll",
+    "command": "editor.action.fixAll"
   },
   {
     "key": "ctrl+alt+l",
-    "command": "markdownlint.fixAll",
+    "command": "markdownlint.fixAll"
   },
   {
     "key": "ctrl+alt+l",
-    "command": "editor.action.formatDocument",
+    "command": "editor.action.formatDocument"
   }
 ]
