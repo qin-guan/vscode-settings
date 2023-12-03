@@ -47,5 +47,9 @@
     "yzhang.markdown-all-in-one",
     "zenstack.zenstack",
     "znck.grammarly",
+    "antfu.open-in-github-button",
+    "github.vscode-github-actions",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "WakaTime.vscode-wakatime"
   ]
 }
