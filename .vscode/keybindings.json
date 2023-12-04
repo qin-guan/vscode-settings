@@ -15,5 +15,10 @@
   {
     "key": "ctrl+alt+l",
     "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "cmd+backspace",
+    "command": "-editor.action.deleteLines",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
