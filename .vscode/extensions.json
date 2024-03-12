@@ -42,7 +42,6 @@
     "usernamehw.errorlens",
     "vincaslt.highlight-matching-tag",
     "voorjaar.windicss-intellisense",
-    "vscodevim.vim",
     "Vue.volar",
     "yzhang.markdown-all-in-one",
     "zenstack.zenstack",
@@ -59,6 +58,8 @@
     "redhat.vscode-xml",
     "vadimcn.vscode-lldb",
     "ms-azuretools.rad-vscode-bicep",
-    "ms-kubernetes-tools.vscode-kubernetes-tools"
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons"
   ]
 }
