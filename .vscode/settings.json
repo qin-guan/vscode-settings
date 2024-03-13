@@ -85,7 +85,7 @@
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.tabActionLocation": "right",
   "workbench.fontAliasing": "antialiased",
-  "workbench.iconTheme": "catppuccin-macchiato",
+  "workbench.iconTheme": "catppuccin-mocha",
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "Vitesse Dark",
   "workbench.preferredLightColorTheme": "Vitesse Light",
@@ -189,8 +189,6 @@
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
-  // Enable the flat config support
-  "eslint.experimental.useFlatConfig": true,
   "eslint.quiet": true,
   // Silent the stylistic rules in you IDE, but still auto fix them
   "eslint.rules.customizations": [
