@@ -60,6 +60,7 @@
     "ms-azuretools.rad-vscode-bicep",
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "Catppuccin.catppuccin-vsc",
-    "Catppuccin.catppuccin-vsc-icons"
+    "Catppuccin.catppuccin-vsc-icons",
+    "foxundermoon.shell-format"
   ]
 }
