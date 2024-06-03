@@ -61,6 +61,7 @@
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "Catppuccin.catppuccin-vsc",
     "Catppuccin.catppuccin-vsc-icons",
-    "foxundermoon.shell-format"
+    "foxundermoon.shell-format",
+    "ms-vscode.powershell"
   ]
 }
