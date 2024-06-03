@@ -62,6 +62,7 @@
     "Catppuccin.catppuccin-vsc",
     "Catppuccin.catppuccin-vsc-icons",
     "foxundermoon.shell-format",
-    "ms-vscode.powershell"
+    "ms-vscode.powershell",
+    "YoavBls.pretty-ts-errors"
   ]
 }
