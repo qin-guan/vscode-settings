@@ -117,6 +117,9 @@
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.simpleDialog.enable": true,
+  "files.associations": {
+    "*.json": "jsonc"
+  },
 
   // Uncomment if performance issues occur
   // "files.watcherExclude": {
