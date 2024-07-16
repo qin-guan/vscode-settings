@@ -63,6 +63,7 @@
     "Catppuccin.catppuccin-vsc-icons",
     "foxundermoon.shell-format",
     "ms-vscode.powershell",
-    "YoavBls.pretty-ts-errors"
+    "YoavBls.pretty-ts-errors",
+    "ziglang.vscode-zig"
   ]
 }
