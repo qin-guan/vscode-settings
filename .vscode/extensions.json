@@ -64,6 +64,7 @@
     "foxundermoon.shell-format",
     "ms-vscode.powershell",
     "YoavBls.pretty-ts-errors",
-    "ziglang.vscode-zig"
+    "ziglang.vscode-zig",
+    "GitHub.vscode-codeql"
   ]
 }
