@@ -58,6 +58,7 @@
     "Catppuccin.catppuccin-vsc-icons",
     "foxundermoon.shell-format",
     "YoavBls.pretty-ts-errors",
-    "ziglang.vscode-zig"
+    "ziglang.vscode-zig",
+    "typespec.typespec-vscode"
   ]
 }
