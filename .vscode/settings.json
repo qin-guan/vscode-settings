@@ -14,8 +14,6 @@
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   },
-  // Browse Lite for Linux
-  "browse-lite.chromeExecutable": "/usr/bin/microsoft-edge",
   // Neovim
   "vscode-neovim.ctrlKeysForInsertMode": [
     "w"
@@ -36,7 +34,7 @@
   "workbench.editor.tabActionLocation": "right",
   "workbench.iconTheme": "catppuccin-frappe",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredLightColorTheme": "Catppuccin Frappé",
+  "workbench.preferredLightColorTheme": "Default Light Modern",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
@@ -175,64 +173,11 @@
   "css.lint.hexColorLength": "ignore",
   "githubIssues.workingIssueFormatScm": "#${issueNumberLabel}",
   "githubPullRequests.fileListLayout": "tree",
-  "gitlens.codeLens.authors.enabled": false,
-  "gitlens.codeLens.enabled": false,
-  "gitlens.codeLens.recentChange.enabled": false,
-  "gitlens.menus": {
-    "editor": {
-      "blame": false,
-      "clipboard": true,
-      "compare": true,
-      "history": false,
-      "remote": false
-    },
-    "editorGroup": {
-      "blame": true,
-      "compare": false
-    },
-    "editorTab": {
-      "clipboard": true,
-      "compare": true,
-      "history": true,
-      "remote": true
-    },
-    "explorer": {
-      "clipboard": true,
-      "compare": true,
-      "history": true,
-      "remote": true
-    },
-    "scm": {
-      "authors": true
-    },
-    "scmGroup": {
-      "compare": true,
-      "openClose": true,
-      "stash": true
-    },
-    "scmGroupInline": {
-      "stash": true
-    },
-    "scmItem": {
-      "clipboard": true,
-      "compare": true,
-      "history": true,
-      "remote": false,
-      "stash": true
-    }
-  },
-  "i18n-ally.autoDetection": false,
+ "i18n-ally.autoDetection": false,
   "i18n-ally.displayLanguage": "en",
   "i18n-ally.ignoredLocales": [],
   "iconify.annotations": true,
   "iconify.inplace": true,
-  "svg.preview.mode": "svg",
-
-  // I only use Prettier for manually formatting
-  "prettier.enable": false,
-  "prettier.printWidth": 200,
-  "prettier.semi": false,
-  "prettier.singleQuote": true,
 
   // ========== File Nesting ==========
   // this might not be up to date with the repo, please check yourself
@@ -320,16 +265,10 @@
     "editor.defaultFormatter": "Vue.volar"
   },
 
-  // Prisma
-  "prisma.showPrismaDataPlatformNotification": false,
-  "github.copilot.editor.enableAutoCompletions": true,
   "files.associations": {
     "*.json": "jsonc"
   },
 
-  // CodeQL
-  "codeQL.telemetry.enableTelemetry": false,
-  "mdb.mcp.server": "prompt",
   "[dockercompose]": {
     "editor.insertSpaces": true,
     "editor.tabSize": 2,
