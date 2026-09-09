@@ -7,8 +7,6 @@
   "editor.guides.bracketPairs": "active",
   "editor.renderWhitespace": "boundary",
 
-  "window.autoDetectColorScheme": true,
-
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.tabActionLocation": "right",
   "workbench.iconTheme": "catppuccin-mocha",
