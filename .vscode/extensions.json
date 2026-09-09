@@ -10,6 +10,8 @@
     "antfu.open-in-github-button",
     "lokalise.i18n-ally",
     "jnoortheen.nix-ide",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-spring-initializr",
 
     // themes & icons (pick one of each)
     "antfu.icons-carbon",
