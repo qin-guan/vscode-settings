@@ -12,7 +12,9 @@
     "jnoortheen.nix-ide",
     "vscjava.vscode-java-pack",
     "vscjava.vscode-spring-initializr",
-
+    "hverlin.mise-vscode",
+    "tombi-toml.tombi",
+    
     // themes & icons (pick one of each)
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
