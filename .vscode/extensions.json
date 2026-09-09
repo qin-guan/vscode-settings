@@ -14,7 +14,6 @@
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
     "Catppuccin.catppuccin-vsc",
     "Catppuccin.catppuccin-vsc-icons",
 
@@ -26,7 +25,6 @@
     "EditorConfig.EditorConfig",
     "formulahendry.auto-rename-tag",
     "foxundermoon.shell-format",
-    "GitHub.copilot",
     "GitHub.copilot-chat",
     "golang.go",
     "Prisma.prisma",
@@ -43,12 +41,6 @@
     "zenstack.zenstack",
     "ziglang.vscode-zig",
 
-    // .NET
-    "ms-dotnettools.csharp",
-    "ms-dotnettools.csdevkit",
-    "ms-dotnettools.vscode-dotnet-runtime",
-    "ms-dotnettools.vscodeintellicode-csharp",
-
     // up to you
     "amodio.tsl-problem-matcher",
     "DavidAnson.vscode-markdownlint",
@@ -64,6 +56,5 @@
     "WakaTime.vscode-wakatime",
     "yzhang.markdown-all-in-one",
     "znck.grammarly",
-    "csharpier.csharpier-vscode"
   ]
 }
